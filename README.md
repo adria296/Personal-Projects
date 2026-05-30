@@ -9,7 +9,7 @@ https://roadmap.sh/projects/single-page-cv
 Add your GitHub repository link here.
 
 ## Live Demo
-Add your website link here after deploying.
+(https://adria296.github.io/Basic-CV/)
 
 ## Requirements Completed
 - Public GitHub repository
