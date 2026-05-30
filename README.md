@@ -1,15 +1,15 @@
 # Basic-CV
 
-Basic CV project from roadmap.sh
+A simple single-page CV project from roadmap.sh.
 
 ## Project URL
 https://roadmap.sh/projects/single-page-cv
 
 ## Repository
-Add your GitHub repository link here.
+[GitHub Repository](https://github.com/adria296/Basic-CV)
 
 ## Live Demo
-(https://adria296.github.io/Basic-CV/)
+[View Website](https://adria296.github.io/Basic-CV/)
 
 ## Requirements Completed
 - Public GitHub repository
