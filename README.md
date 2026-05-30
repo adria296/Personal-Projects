@@ -9,7 +9,7 @@ https://roadmap.sh/projects/single-page-cv
 [GitHub Repository]()
 
 ## Live Demo
-[View Website](https://adria296.github.io/Basic-CV/](https://adria296.github.io/Personal-Projects/Frontend-Projects/1-CVbasic-page/)
+[View Website](https://adria296.github.io/Personal-Projects/Frontend-Projects/1-CVbasic-page/)
 
 ## Requirements Completed
 - Public GitHub repository
