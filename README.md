@@ -6,7 +6,7 @@ A simple single-page CV project from roadmap.sh.
 https://roadmap.sh/projects/single-page-cv
 
 ## Repository
-[GitHub Repository](https://github.com/adria296/Basic-CV)
+[GitHub Repository]([https://github.com/adria296/Basic-CV](https://adria296.github.io/Personal-Projects/Frontend-Projects/1-CVbasic-page/))
 
 ## Live Demo
 [View Website](https://adria296.github.io/Basic-CV/)
