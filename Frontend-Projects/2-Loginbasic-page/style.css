@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Ancizar+Sans:ital,wght@0,100..1000;1,100..1000&family=Archivo+Black&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url(https://img.magnific.com/free-photo/artistic-blurry-colorful-wallpaper-background_58702-8320.jpg?semt=ais_hybrid&w=740&q=80);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: "Inter", sans-serif;
+}
+
+.buttons {
+
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    flex-direction: row;
+    padding-bottom: 40px;
+    color: white;
+    font-size: 12px;
+}
+
+.buttons a {
+    text-decoration: none;
+    font-style: italic;
+    color: white;
+}
+
+.container {
+    border-radius: 12px;
+    height: 60vh;
+    padding: 20px;
+    text-align: center;
+}
+
+.container .top {
+    padding-top: 10px;
+    justify-content: center;
+    align-items: center;
+    font-size: 45px;
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+
+.container .top span {
+    padding: 10px;
+    font-size: 30px;
+}
+
+.checkbox {
+    cursor: pointer;
+}
+
+.Type-Data {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding-top: 45px;
+    padding: 10px 10px 10px 5px;
+    width: 300px;
+}
+
+.Type-Data input:focus {
+    outline: none;
+    border: none;
+    box-shadow: none;
+}
+
+.Type-Data input {
+    padding: 10px 1px 10px 0px;
+    border: none;
+    background: transparent;
+    color: white;
+}
+
+.Type-Data ::placeholder {
+    padding: 5px;
+    color: white;
+}
+
+
+.Login {
+    background-color: rgba(1, 10, 51, 0.336);
+    height: 5vh;
+    width: 30vh;
+    color: white;
+    cursor: pointer;
+    border: none;
+
+}
+
+.top i {
+    background-color: rgba(1, 10, 51, 0.555);
+    padding: 20px;
+    border-radius: 50%;
+    width: 50px;
+}
